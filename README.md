@@ -26,6 +26,9 @@ A packaged demo showcasing the **GladeCore** Unreal Engine plugin for local, on-
 4. **Try the Two Input Modes**
    - **Text input:** Press **Enter**, type your message, then press **Enter** again.  
    - **Voice input:** With the interaction active, **hold V** to talk (uses your default microphone).
+  
+5. **Exit the Demo**
+   - Currently, to exit the Demo you have to Alt-F4 or terminate via the task manager. Sorry for the inconvenience.  
 
 ---
 
