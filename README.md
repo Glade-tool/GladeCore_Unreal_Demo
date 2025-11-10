@@ -57,3 +57,5 @@ A packaged demo showcasing the **GladeCore** Unreal Engine plugin for local, on-
 
 ## Support
 Thanks for trying GladeCore! Questions or feedback? Reach out in our Discord - we’re happy to help.
+- Discord: **https://discord.gg/Qpum9JuDT7**
+
