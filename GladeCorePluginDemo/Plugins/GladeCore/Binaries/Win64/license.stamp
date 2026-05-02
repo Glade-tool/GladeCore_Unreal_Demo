@@ -1,0 +1,8 @@
+# GladeCore license stamp — auto-generated at cook time.
+# DO NOT commit / DO NOT edit. The 'sig=' line is HMAC-SHA256
+# of the body, keyed with a secret inside gladecore.dll.
+# Editing any field invalidates the signature and the runtime
+# falls back to Free.
+plan=Pro
+is_pro=1
+sig=52c5ac59ce31fdbfa1c5bc337c463cf34f10ec5cd2664420ef7fc84bbe594939
